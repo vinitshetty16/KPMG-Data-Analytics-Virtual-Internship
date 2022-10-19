@@ -33,5 +33,7 @@ Developed a dashboard using Tableau that displays the data summary and results o
 * What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 * What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
-## Dashboards
+## [Dashboard](https://public.tableau.com/app/profile/vinit.shetty/viz/KPMG_task3_VinitShetty/Dashboard1?publish=yes)
 
+## DataSource : 
+[https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb](https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb)
